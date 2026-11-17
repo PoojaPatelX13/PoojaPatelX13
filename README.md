@@ -39,6 +39,7 @@ Software Development Best Practices
 📫 Connect With Me
 📧 Email: poojapatel53032@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/pooja-patel-48666a386
+💼 LinkedIn: 
+www.linkedin.com/in/poojapatelx13
 
 🌐 GitHub: https://github.com/PoojaPatelX13
