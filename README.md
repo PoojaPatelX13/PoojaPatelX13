@@ -1,5 +1,7 @@
-Hi, I'm Pooja Patel 👋
-BCA Student | MERN Stack Enthusiast | Data Analytics Enthusiast
+# Hi, I'm Pooja Patel 👋
+
+**BCA Student | MERN Stack Enthusiast | Data Analytics Enthusiast**
+
 💻 Passionate about building full-stack web applications using modern technologies.
 
 📊 Exploring Data Analytics, data visualization, and problem-solving.
@@ -8,38 +10,45 @@ BCA Student | MERN Stack Enthusiast | Data Analytics Enthusiast
 
 📍 Bengaluru, Karnataka, India
 
-🛠️ Tech Stack
-HTML
-CSS
-JavaScript
-React.js
-Node.js
-Express.js
-MongoDB
-Python
-SQL
-🚀 Featured Projects
-📚 Book Basket
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Python
+- SQL
+
+## 🚀 Featured Projects
+
+📚 **Book Basket**  
 Online Library Management System built using the MERN Stack.
 
-✈️ Destiny Travels
+✈️ **Destiny Travels**  
 Destination Management REST API using Node.js, Express.js, and MongoDB.
 
-🎬 Cinescope
+🎬 **Cinescope**  
 Movie discovery and browsing application built with React.
 
-📖 Technika Courses
+📖 **Technika Courses**  
 Course listing application showcasing technical courses and programming languages.
 
-🌱 Currently Learning
-Advanced MERN Stack Development
-Data Analytics with Python
-Database Management Systems
-Software Development Best Practices
-📫 Connect With Me
-📧 Email: poojapatel53032@gmail.com
+## 🌱 Currently Learning
+- Advanced MERN Stack Development
+- Data Analytics with Python
+- Database Management Systems
+- Software Development Best Practices
 
-💼 LinkedIn: 
-www.linkedin.com/in/poojapatelx13
+## 📫 Connect With Me
 
-🌐 GitHub: https://github.com/PoojaPatelX13
+📧 **Email:** poojapatel53032@gmail.com
+
+💼 **LinkedIn:** [linkedin.com/in/poojapatelx13](https://www.linkedin.com/in/poojapatelx13)
+
+🌐 **GitHub:** [github.com/PoojaPatelX13](https://github.com/PoojaPatelX13)
+
+📸 **Instagram:**
+- [@itz.patelx](https://www.instagram.com/itz.patelx/)
+- [@itz.blurx](https://www.instagram.com/itz.blurx/)
